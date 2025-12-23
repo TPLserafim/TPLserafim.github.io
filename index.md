@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Lenda do Herói Pixel
 ---
 
 # 🗡️ Lenda do Herói Pixel
